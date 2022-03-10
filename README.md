@@ -2,7 +2,7 @@
 
 [![Build Status](https://img.shields.io/badge/Python-3.9.1-blue)](https://img.shields.io/badge/Python-3.9.1-blue)
 
-As it's name suggest, QueueTest is a blockable queue of messages/tasks.
+As its name suggest, QueueTest is a blockable queue of messages/tasks.
 The main objective of QueueTest is to create a list of tasks for asynchronous processing.
 
 The implementation must guarantee that:
